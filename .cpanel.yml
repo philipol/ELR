@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cpanelUser/public_html/ELR
+    - export DEPLOYPATH=/home/cpanelUser/public_html/lonnredovisning.se
     - /bin/cp -R * $DEPLOYPATH
